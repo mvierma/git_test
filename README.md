@@ -1,1 +1,0 @@
-This is Mikko's first git project!
